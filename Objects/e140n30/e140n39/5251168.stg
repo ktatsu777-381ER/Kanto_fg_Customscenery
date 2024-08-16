@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Power/windturbine.xml 140.0530059 39.5438125 -0.01 0
+OBJECT_SHARED Models/Airport/ils.ac 140.229239 39.615786 93.14 83.22
+OBJECT_SHARED Models/Communications/vordme_1.xml 140.186936 39.617128 82.46 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 140.229239 39.615878 93.06 180
+OBJECT_SHARED Models/Airport/marker.ac 140.245917 39.6132 76.4 180
+OBJECT_SHARED Models/Airport/localizer.xml 140.201483 39.617183 81 6.62
