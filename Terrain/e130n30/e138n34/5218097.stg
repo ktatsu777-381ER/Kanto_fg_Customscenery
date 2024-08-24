@@ -1,0 +1,5 @@
+OBJECT_BASE 5218097.btg
+OBJECT RJNY.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 138.289329 34.812913 10.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 138.306780 34.812396 6.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 138.297964 34.814093 -9999.0 0.00
